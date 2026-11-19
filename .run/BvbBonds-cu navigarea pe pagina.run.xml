@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BvbBonds-cu navigarea pe pagina" type="Application" factoryName="Application">
+    <envs>
+      <env name="BVB_BROWSER" value="edge" />
+      <env name="BVB_KEEP_OPEN" value="true" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.delgaz.matricecp.entities.matrix.BvbBonds" />
+    <module name="bvb-selenium-tools" />
+    <shortenClasspath name="MANIFEST" />
+    <option name="VM_PARAMETERS" value="-Xmx1024m -Dfile.encoding=UTF-8" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

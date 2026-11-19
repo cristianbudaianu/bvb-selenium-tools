@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BvbBonds Ron" type="Application" factoryName="Application">
+    <envs>
+      <env name="BVB_KEEP_OPEN" value="true" />
+      <env name="BVB_MIN_YIELD_RON" value="7.00" />
+      <env name="BVB_MIN_YIELD_EURO" value="5.00" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.delgaz.matricecp.entities.matrix.BvbBondsQuickDownloadCsvMain" />
+    <module name="bvb-selenium-tools" />
+    <shortenClasspath name="MANIFEST" />
+    <option name="VM_PARAMETERS" value="-Xmx1024m -Dfile.encoding=UTF-8 -Dbvb.show.ron.list=true -Dbvb.show.euro.list=false -Dbvb.open.ron=true -Dbvb.open.euro=false" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

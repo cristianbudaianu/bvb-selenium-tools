@@ -1,0 +1,7 @@
+target/
+.browser-profile/
+.tools/
+.idea/
+*.iml
+url-lists/
+~$*
